@@ -179,8 +179,8 @@
     "bannerImage": "https://res.cloudinary.com/dwx2jd8b1/image/upload/v1683128686/Rakibul_Hasan/Joel_Robuchon_banner_j9pqle.jpg",
     "bio": "Joel Robuchon was a French chef who was known for his innovative and refined cuisine. He began his culinary training at the age of 15 and later earned a degree in pastry making. Robuchon went on to work in some of the most prestigious kitchens in France, including the Hotel Negresco in Nice and the Relais & Chateaux in Brittany. He also served as the personal chef to the Prince of Monaco for several years. Throughout his career, Robuchon was recognized with numerous awards, including 32 Michelin stars, more than any other chef in the world. He passed away in 2018, leaving behind a legacy as one of the greatest chefs of all time.",
     "likes": 154,
-    "numRecipes": 8,
-    "yearsExperience": 45,
+    "numOfRecipes": 23,
+    "yearsOfExperience": 67,
     "recipes": [
       {
         "id": 1,
@@ -341,8 +341,8 @@
     "bannerImage": "https://res.cloudinary.com/dwx2jd8b1/image/upload/v1683129198/Rakibul_Hasan/Paul_Bocuse_banner_eismba.jpg",
     "bio": "Paul Bocuse is a French chef and the fourth female chef to hold three Michelin stars. She is the only woman to have held three Michelin stars twice. Pic is the granddaughter of chef André Pic, and daughter of Jacques Pic. She pursued studies in economics and management before deciding to follow in the family tradition of cooking. Pic began her training in the kitchen with her father, Jacques Pic, at his eponymous restaurant in Valence, France. After her father's death, she took over as head chef and successfully maintained the restaurant's three Michelin stars. In 2007, Pic opened her own restaurant, Maison Pic, in Valence, which has also been awarded three Michelin stars. She is known for her innovative, feminine take on traditional French cuisine.",
     "likes": 1200,
-    "numRecipes": 25,
-    "yearsExperience": 20,
+    "numOfRecipes": 25,
+    "yearsOfExperience": 15,
     "recipes": [
       {
         "id": 1,
@@ -497,8 +497,8 @@
     "bannerImage": "https://res.cloudinary.com/dwx2jd8b1/image/upload/v1683128218/Rakibul_Hasan/Yannick_Alleno_banner_yamg22.jpg",
     "bio": "Yannick Alleno is a renowned French chef who has won three Michelin stars throughout his career. He was born in Puteaux, France in 1968 and started his culinary training at a young age. Alleno has worked in some of the world's top restaurants, including Le Meurice in Paris and the Royal Mansour in Marrakech. He is known for his innovative approach to French cuisine, which combines classic techniques with modern flavors. Alleno has received numerous awards for his culinary achievements, including the Chevalier de la Legion d'Honneur and the Meilleur Ouvrier de France. In his free time, he enjoys traveling and exploring new ingredients and flavors.",
     "likes": 3200,
-    "numRecipes": 38,
-    "yearsExperience": 30,
+    "numOfRecipes": 15,
+    "yearsOfExperience": 34,
     "recipes": [
       {
         "id": 1,
@@ -625,8 +625,8 @@
     "bannerImage": "https://res.cloudinary.com/dwx2jd8b1/image/upload/v1683129603/Rakibul_Hasan/Guy_Savoy_banner_svpaz6.jpg",
     "bio": "Guy Savoy is a French chef born on July 24, 1953, in Nevers, France. He started his culinary journey by working as an apprentice under famous chef Troisgros brothers at the Restaurant Troisgros in Roanne. Later on, he opened his own restaurant, Restaurant Guy Savoy, which has been awarded three Michelin stars, and has become a popular destination for foodies around the world. Guy Savoy is known for his traditional French cuisine and his love for fresh, seasonal ingredients.",
     "likes": 156,
-    "num_of_recipes": 55,
-    "years_of_experience": 46,
+    "numOfRecipes": 32,
+    "yearsOfExperience": 23,
     "recipes": [
       {
         "id": 1,
@@ -776,7 +776,8 @@
     "bannerImage": "https://res.cloudinary.com/dwx2jd8b1/image/upload/v1683126946/Rakibul_Hasan/Pierre_Gagnaire_banner_fdey1g.jpg",
     "bio": "Pierre Gagnaire is a renowned French chef and restaurateur known for his innovative and experimental cuisine. He was born on April 9, 1950, in Apinac, Loire, France. Gagnaire started his culinary career at the age of 14, working as an apprentice chef in various restaurants in Saint-Etienne. After completing his culinary training, Gagnaire worked in a number of Michelin-starred restaurants across France, including Maison Troisgros and Hotel Concorde Lafayette. In 1981, he opened his own restaurant in Saint-Etienne, which was awarded its first Michelin star just two years later. Today, Gagnaire is the head chef and owner of several Michelin-starred restaurants across the world.",
     "likes": 1200,
-    "years_of_experience": 50,
+    "numOfRecipes": 76,
+    "yearsOfExperience": 12,
     "recipes": [
       {
         "id": 1,
@@ -914,7 +915,8 @@
     "bannerImage": "https://res.cloudinary.com/dwx2jd8b1/image/upload/v1683127176/Rakibul_Hasan/Eric_Ripert_banner_xskqzn.jpg",
     "bio": "Eric Ripert is a French chef, author, and television personality. He is the chef and co-owner of Le Bernardin, a three-Michelin-starred seafood restaurant in New York City. Ripert began his culinary training at a young age and worked at several acclaimed restaurants in France before moving to the United States. He has authored several cookbooks and has been a judge on the television show Top Chef. Ripert is known for his innovative and refined approach to seafood cuisine.",
     "likes": 2150,
-    "years_of_experience": 35,
+    "numOfRecipes": 12,
+    "yearsOfExperience": 65,
     "recipes": [
       {
         "id": 1,
@@ -1081,7 +1083,8 @@
     "bannerImage": "https://res.cloudinary.com/dwx2jd8b1/image/upload/v1683127939/Rakibul_Hasan/Michel_Bras_banner_duyfx1.jpg",
     "bio": "Michel Bras is a Michelin-starred chef from France. She was born into a family of restaurateurs and started her culinary career at a young age. After gaining experience in some of the world's top restaurants, including Alain Ducasse at The Dorchester and The Connaught in London, she opened her own restaurant in Paris. In 2008, she opened her first London restaurant, Michel Bras at The Connaught, which was awarded two Michelin stars in 2011. She has since opened a second London restaurant and a restaurant in Moscow. Darroze is known for her contemporary take on French cuisine and her focus on using seasonal and locally sourced ingredients.",
     "likes": 259,
-    "years_of_experience": 30,
+    "numOfRecipes": 98,
+    "yearsOfExperience": 35,
     "recipes": [
       {
         "id": 1,
